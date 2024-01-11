@@ -1,1 +1,1 @@
-dfdefef
+print ("hello world")
